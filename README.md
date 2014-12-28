@@ -10,6 +10,7 @@ Students are asked to investigate the basic properties of given social networks.
 ### Used Datasets
 
 [Facebook network at SNAP](http://snap.stanford.edu/data/egonets-Facebook.html)
+
 [High energy physics theory collaboration network at SNAP](http://snap.stanford.edu/data/ca-HepTh.html)
 
 ### Environment
