@@ -7,6 +7,12 @@ The programs to analyze the difficulty of the homework 0 in the course "Social N
 
 Students are asked to investigate the basic properties of given social networks. In addition, students have to implement two diffusion models: linear threshold (LT) and independent cascade (IC) running on those social networks.
 
+The basic properties include:
+- Degree distribution
+- Average shortest path length
+- Closeness centrality
+- Betweenness centrality
+
 ### Used Datasets
 
 [Facebook network at SNAP](http://snap.stanford.edu/data/egonets-Facebook.html)
